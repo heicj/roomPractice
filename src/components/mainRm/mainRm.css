@@ -1,0 +1,8 @@
+.MainDiv{
+  background-image: url('../../img/entry.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  height: 500px;
+  width: 1000px
+}

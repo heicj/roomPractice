@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './mainRm.css';
 
 export default class MainRm extends Component {
 
@@ -7,4 +8,11 @@ export default class MainRm extends Component {
       item: '',
     };
 
+    render(){
+      return (
+        <div className='MainDiv'>
+          hello world
+        </div>
+      );
+    }
 }
