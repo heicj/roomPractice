@@ -1,0 +1,9 @@
+.dining{
+  background-image: url('../../img/dining.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  height: 400px;
+  width: 750px;
+  display: block
+}
